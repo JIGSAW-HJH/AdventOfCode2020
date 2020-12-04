@@ -1,6 +1,6 @@
 def main():
 
-    f = open("puzzle3Info.txt","r")
+    f = open("Toboggan-Trajectory.txt","r")
     f1 = f.readlines()
 
     length = len(f1)
