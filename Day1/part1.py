@@ -1,5 +1,5 @@
 def main():
-    f= open("puzzleOne.txt","r")
+    f= open("Report-file-data.txt","r")
     #if f.mode == "r":
     #use the read function to read the content
     #contents = f.read()
